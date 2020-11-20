@@ -1,0 +1,1667 @@
+感谢每一位译者与相关人员,字幕组是打破文化屏障的人 - 欢迎关注新浪微博｜RYANLAUN
+
+
+Why don't you go ahead? Sit down and see if you can get comfy.
+-You good? All right. -Yeah.
+Take one, marker.
+Wanna start by introducing yourself?
+Hello, world. Bailey. Take three.
+-You good? -This is the worst part, man.
+I don't like this.
+I worked at Facebook in 2011 and 2012.
+I was one of the really early employees at Instagram.
+I worked at,  Google,  YouTube.
+Apple, Google, Twitter, Palm.
+I helped start Mozilla Labs and switched over to the Firefox side.
+-Are we rolling? Everybody? -
+Great.
+I worked at Twitter.
+My last job there
+was the senior vice president of engineering.
+-I was the president of Pinterest. -
+Before that, um, I was the... the director of monetization
+at Facebook for five years.
+While at Twitter, I spent a number of years running their developer platform,
+and then I became head of consumer product.
+I was the coinventor of Google Drive, Gmail Chat,
+Facebook Pages, and the Facebook like button.
+Yeah. This is... This is why I spent, like, eight months
+talking back and forth with lawyers.
+This freaks me out.
+When I was there,
+I always felt like, fundamentally, it was a force for good.
+I don't know if I feel that way anymore.
+I left Google in June 2017,  due to ethical concerns.
+And... And not just at Google but within the industry at large.
+I'm very concerned.
+I'm very concerned.
+It's easy today to lose sight of the fact
+that these tools actually have created some wonderful things in the world.
+They've reunited lost family members. They've found organ donors.
+I mean, there were meaningful, systemic changes happening
+around the world because of these platforms
+that were positive!
+I think we were naive about the flip side of that coin.
+Yeah, these things, you release them, and they take on a life of their own.
+And how they're used is pretty different than how you expected.
+Nobody, I deeply believe, ever intended any of these consequences.
+There's no one bad guy. No. Absolutely not.
+So, then, what's the... what's the problem?
+Is there a problem, and what is the problem?
+Yeah, it is hard to give a single, succinct...
+I'm trying to touch on many different problems.
+What is the problem?
+Dialogue: 0,0:03:28.20,0:03:32.25,M - RYANLAUN,,0,0,0,,‎NETFLIX 原创纪录片
+Despite facing mounting criticism,
+the so-called Big Tech names are getting bigger.
+The entire tech industry is under a new level of scrutiny.
+And a new study sheds light on the link
+between mental health and social media use.
+Here to talk about the latest research...
+...is going on that gets no coverage at all.
+Tens of millions of Americans are hopelessly addicted
+to their electronic devices.
+It's exacerbated by the fact
+that you can literally isolate yourself now
+
+in a bubble, thanks to our technology.
+Fake news is becoming more advanced
+and threatening societies around the world.
+We weren't expecting any of this when we created Twitter over 12 years ago.
+White House officials say they have no reason to believe
+the Russian cyberattacks will stop.
+YouTube is being forced to concentrate on cleansing the site.
+TikTok, if you talk to any tween out there...
+...there's no chance they'll delete this thing...
+Hey, Isla, can you get the table ready, please?
+There's a question about whether social media
+is making your child depressed.
+Isla, can you set the table, please?
+These cosmetic procedures are becoming so popular with teens,
+plastic surgeons have coined a new syndrome for it,
+"Snapchat dysmorphia," with young patients wanting surgery
+so they can look more like they do in filtered selfies.
+Still don't see why you let her have that thing.
+What was I supposed to do?
+I mean, every other kid in her class had one.
+She's only 11.
+Cass, no one's forcing you to get one.
+You can stay disconnected as long as you want.
+Hey, I'm connected without a cell phone, okay? I'm on the Internet right now.
+Also, that isn't even actual connection. It's just a load of sh
+Surveillance capitalism has come to shape
+our politics and culture in ways many people don't perceive.
+ISIS inspired followers online,
+and now white supremacists are doing the same.
+Recently in India,
+Internet lynch mobs have killed a dozen people, including these five...
+It's not just fake news; it's fake news with consequences.
+How do you handle an epidemic in the age of fake news?
+Can you get the coronavirus by eating Chinese food?
+We have gone from the information age into the disinformation age.
+Our democracy is under assault.
+What I said was,
+"I think the tools that have been created today are starting
+to erode the social fabric of how society works."
+Aza does welcoming remarks. We play the video.
+And then, "Ladies and gentlemen, Tristan Harris."
+-Right. -Great.
+So, I come up, and...
+
+basically say, "Thank you all for coming."
+So, today, I wanna talk about a new agenda for technology.
+And why we wanna do that is because if you ask people,
+"What's wrong in the tech industry right now?"
+there's a cacophony of grievances and scandals,
+and "They stole our data." And there's tech addiction.
+And there's fake news. And there's polarization
+and some elections that are getting hacked.
+But is there something that is beneath all these problems
+that's causing all these things to happen at once?
+-Does this feel good? -Very good. Yeah.
+I'm just trying to... Like, I want people to see...
+Like, there's a problem happening in the tech industry,
+and it doesn't have a name,
+and it has to do with one source, like, one...
+When you look around you, it feels like the world is going crazy.
+You have to ask yourself, like, "Is this normal?
+Or have we all fallen under some kind of spell?"
+
+
+I wish more people could understand how this works
+because it shouldn't be something that only the tech industry knows.
+It should be something that everybody knows.
+-Hello! -Hi.
+-Tristan. Nice to meet you. -It's Tris-tan, right?
+-Yes. -Awesome. Cool.
+Tristan Harris is a former design ethicist for Google
+and has been called the closest thing Silicon Valley has to a conscience.
+He's asking tech
+to bring what he calls "ethical design" to its products.
+It's rare for a tech insider to be so blunt,
+but Tristan Harris believes someone needs to be.
+When I was at Google,
+I was on the Gmail team, and I just started getting burnt out
+'cause we'd had so many conversations about...
+you know, what the inbox should look like and what color it should be, and...
+And I, you know, felt personally addicted to e-mail,
+and I found it fascinating
+there was no one at Gmail working on making it less addictive.
+And I was like, "Is anybody else thinking about this?
+I haven't heard anybody talk about this."
+-And I was feeling this frustration...with the tech industry, overall,
+that we'd kind of, like, lost our way.
+You know, I really struggled to try and figure out
+how, from the inside, we could change it.
+And that was when I decided to make a presentation,
+kind of a call to arms.
+Every day, I went home and I worked on it for a couple hours every single night.
+It basically just said, you know,
+never before in history have 50 designers
+20- to 35-year-old white guys in California
+made decisions that would have an impact on two billion people.
+Two billion people will have thoughts that they didn't intend to have
+because a designer at Google said, "This is how notifications work
+on that screen that you wake up to in the morning."
+And we have a moral responsibility, as Google, for solving this problem.
+And I sent this presentation
+to about 15, 20 of my closest colleagues at Google,
+and I was very nervous about it. I wasn't sure how it was gonna land.
+When I went to work the next day,
+most of the laptops had the presentation open.
+
+Later that day, there was, like, 400 simultaneous viewers,
+so it just kept growing and growing.
+I got e-mails from all around the company.
+I mean, people in every department saying,
+"I totally agree." "I see this affecting my kids."
+"I see this affecting the people around me."
+"We have to do something about this."
+It felt like I was sort of launching a revolution or something like that.
+Later, I found out Larry Page had been notified about this presentation
+-in three separate meetings that day. -
+And so, it created this kind of cultural moment
+-that Google needed to take seriously. -
+-And then... nothing. -
+Everyone in 2006...
+including all of us at Facebook,
+just had total admiration for Google and what Google had built,
+which was this incredibly useful service
+that did, far as we could tell, lots of goodness for the world,
+and they built this parallel money machine.
+We had such envy for that, and it seemed so elegant to us...
+and so perfect.
+Facebook had been around for about two years,
+um, and I was hired to come in and figure out
+what the business model was gonna be for the company.
+I was the director of monetization. The point was, like,
+"You're the person who's gonna figure out how this thing monetizes."
+And there were a lot of people who did a lot of the work,
+but I was clearly one of the people who was pointing towards...
+"Well, we have to make money, A...
+and I think this advertising model is probably the most elegant way.
+- What's this video Mom just sent us?
+ that's from a talk show, but that's pretty good.
+Guy's kind of a genius.
+He's talking all about deleting social media, which you gotta do.
+I might have to start blocking her e-mails.
+I don't even know what she's talking about, man.
+She's worse than I am.
+-No, she only uses it for recipes. -Right, and work.
+-And workout videos. -And to check up on us.
+And everyone else she's ever met in her entire life.
+If you are scrolling through your social media feed
+while you're watchin' us, you need to put the damn phone down and listen up
+'cause our next guest has written an incredible book
+about how much it's wrecking our lives.
+Please welcome author of
+Ten Arguments for Deleting Your Social Media Accounts Right Now...
+..Jaron Lanier.
+Companies like Google and Facebook are some of the wealthiest
+and most successful of all time.
+ they have relatively few employees.
+They just have this giant computer that rakes in money, right? ..
+Now, what are they being paid for?
+That's a really important question.
+So, I've been an investor in technology for 35 years.
+The first 50 years of Silicon Valley, the industry made products
+hardware, software
+sold 'em to customers. Nice, simple business.
+For the last ten years, the biggest companies in Silicon Valley
+have been in the business of selling their users.
+It's a little even trite to say now,
+but... because we don't pay for the products that we use,
+advertisers pay for the products that we use.
+Advertisers are the customers.
+We're the thing being sold.
+The classic saying is:
+"If you're not paying for the product,  then you are the product."
+
+A lot of people think, you know, " well, Google's just a search box,
+and Facebook's just a place to see what my friends are doing
+and see their photos."
+But what they don't realize is they're competing for your attention.
+So, you know, Facebook, Snapchat, Twitter, Instagram, YouTube,
+companies like this, their business model is to keep people engaged on the screen.
+Let's figure out how to get as much of this person's attention
+as we possibly can.
+How much time can we get you to spend?
+How much of your life can we get you to give to us?
+When you think about how some of these companies work,
+it starts to make sense.
+There are all these services on the Internet that we think of as free,
+but they're not free. They're paid for by advertisers.
+Why do advertisers pay those companies?
+They pay in exchange for showing their ads to us.
+We're the product. Our attention is the product being sold to advertisers.
+That's a little too simplistic.
+It's the gradual, slight, imperceptible change
+in your own behavior and perception that is the product.
+
+And that is the product. It's the only possible product.
+There's nothing else on the table that could possibly be called the product.
+That's the only thing there is for them to make money from.
+Changing what you do,
+how you think, who you are.
+It's a gradual change. It's slight.
+If you can go to somebody and you say, "Give me $10 million,
+and I will change the world one percent in the direction you want it to change..."
+It's the world! That can be incredible, and that's worth a lot of money.
+Okay.
+This is what every business has always dreamt of:
+to have a guarantee that if it places an ad, it will be successful.
+That's their business. They sell certainty.
+
+In order to be successful in that business,
+you have to have great predictions.
+
+Great predictions begin with one imperative:
+you need a lot of data.
+
+Many people call this surveillance capitalism,
+capitalism profiting off of the infinite tracking
+of everywhere everyone goes by large technology companies
+whose business model is to make sure
+that advertisers are as successful as possible.
+This is a new kind of marketplace now.
+It's a marketplace that never existed before.
+And it's a marketplace that trades exclusively in human futures.
+Just like there are markets that trade in pork belly futures or oil futures.
+We now have markets that trade in human futures at scale,
+and those markets have produced the trillions of dollars
+that have made the Internet companies the richest companies
+in the history of humanity.
+What I want people to know is that everything they're doing online
+is being watched, is being tracked, is being measured.
+Every single action you take is carefully monitored and recorded.
+Exactly what image you stop and look at, for how long you look at it.
+ yeah, seriously, for how long you look at it.
+
+
+
+They know when people are lonely.
+They know when people are depressed.
+They know when people are looking at photos of your ex-romantic partners.
+They know what you're doing late at night. They know the entire thing.
+Whether you're an introvert or an extrovert,
+or what kind of neuroses you have, what your personality type is like.
+They have more information about us
+than has ever been imagined in human history.
+It is unprecedented.
+And so, all of this data that we're... that we're just pouring out all the time
+is being fed into these systems that have almost no human supervision
+and that are making better and better and better and better predictions
+about what we're gonna do and... and who we are.
+
+People have the misconception it's our data being sold.
+It's not in Facebook's business interest to give up the data.
+What do they do with that data?
+They build models that predict our actions,
+and whoever has the best model wins.
+His scrolling speed is slowing.
+Nearing the end of his average session length.
+Decreasing ad load.
+Pull back on friends and family.
+On the other side of the screen,
+it's almost as if they had this avatar voodoo doll-like model of us.
+All of the things we've ever done,
+all the clicks we've ever made,
+all the videos we've watched, all the likes,
+that all gets brought back into building a more and more accurate model.
+The model, once you have it,
+you can predict the kinds of things that person does.
+Right, let me just test.
+Where you'll go.
+I can predict what kind of videos will keep you watching.
+I can predict what kinds of emotions tend to trigger you.
+Yes, perfect.
+The most epic fails of the year.
+
+-Perfect. That worked. -Following with another video.
+Beautiful. Let's squeeze in a sneaker ad before it starts.
+At a lot of technology companies, there's three main goals.
+There's the engagement goal:
+to drive up your usage, to keep you scrolling.
+There's the growth goal:
+to keep you coming back and inviting as many friends
+and getting them to invite more friends.
+And then there's the advertising goal:
+to make sure that, as all that's happening,
+we're making as much money as possible from advertising.
+Each of these goals are powered by algorithms
+whose job is to figure out what to show you
+to keep those numbers going up.
+We often talked about, at Facebook, this idea
+of being able to just dial that as needed.
+And, you know, we talked about having Mark have those dials.
+"Hey, I want more users in Korea today."
+"Turn the dial."
+"Let's dial up the ads a little bit."
+"Dial up monetization, just slightly."
+And so, that happ
+I mean, at all of these companies, there is that level of precision.
+-Dude, how-I don't know how I didn't get carded.
+-That ref just, like, sucked or something. -You got literally all the way...
+-That's Rebecca. Go talk to her. -I know who it is.
+-Dude, yo, go talk to her. -I'm workin' on it.
+His calendar says he's on a break right now. We should be live.
+Want me to nudge him?
+Yeah, nudge away.
+"Your friend Tyler just joined. Say hi with a wave."
+Come on, Ben.
+Send a wave.
+-You're not... Go talk to her, dude. -
+Your friend Tyler just joined. Say hi with a wave.
+
+New link! All right, we're on.
+Follow that up with a post from User 079044238820, Rebecca.
+Good idea. GPS coordinates indicate that they're in close proximity.
+
+He's primed for an ad.
+Auction time.
+
+Sold! To Deep Fade hair wax.
+We had 468 interested bidders. We sold Ben at 3.262 cents for an impression.
+We've created a world
+in which online connection has become primary,
+especially for younger generations.
+And yet, in that world, any time two people connect,
+the only way it's financed is through a sneaky third person
+who's paying to manipulate those two people.
+So, we've created an entire global generation of people
+who are raised within a context where the very meaning of counication,
+the very meaning of culture, is manipulation.
+We've put deceit and sneakiness
+at the absolute center of everything we do.
+
+
+-Grab the... -Okay.
+-Where's it help to hold it? -Great.
+-Here? -Yeah.
+How does this come across on camera if I were to do, like, this move
+-We can-Like that?
+-What? -Yeah.
+-Do that again. -Exactly. Yeah.
+Yeah. No, it's probably not...
+Like... yeah.
+I mean, this one is less...
+Larissa's, like, actually freaking out over here.
+Is that good?
+
+I was, like, five years old when I learned how to do magic.
+And I could fool adults, fully-grown adults with, like, PhDs.
+Magicians were almost like the first neuroscientists
+and psychologists.
+Like, they were the ones who first understood
+how people's minds work.
+They just, in real time, are testing lots and lots of stuff on people.
+A magician understands something,
+some part of your mind that we're not aware of.
+That's what makes the illusion work.
+Doctors, lawyers, people who know how to build 747s or nuclear missiles,
+they don't know more about how their own mind is vulnerable.
+That's a separate discipline.
+And it's a discipline that applies to all human beings.
+
+From that perspective, you can have a very different understanding
+of what technology is doing.
+When I was at the Stanford Persuasive Technology Lab,
+this is what we learned.
+How could you use everything we know
+about the psychology of what persuades people
+and build that into technology?
+Now, many of you in the audience are geniuses already.
+I think that's true, but my goal is to turn you into a behavior-change genius.
+There are many prominent Silicon Valley figures who went through that class
+key growth figures at Facebook and Uber and... and other companies
+and learned how to make technology more persuasive,
+Tristan being one.
+Persuasive technology is just sort of design
+intentionally applied to the extreme,
+where we really want to modify someone's behavior.
+We want them to take this action.
+We want them to keep doing this with their finger.
+You pull down and you refresh, it's gonna be a new thing at the top.
+Pull down and refresh again, it's new. Every single time.
+Which, in psychology, we call a positive intermittent reinforcement.
+You don't know when you're gonna get it or if you're gonna get something,
+which operates just like the slot machines in Vegas.
+It's not enough that you use the product consciously,
+I wanna dig down deeper into the brain stem
+and implant, inside of you, an unconscious habit
+so that you are being prograed at a deeper level.
+You don't even realize it.
+A man, James Marshall...
+Every time you see it there on the counter,
+and you just look at it, and you know if you reach over,
+it just might have something for you,
+so you play that slot machine to see what you got, right?
+That's not by accident. That's a design technique.
+He brings a golden nugget to an officer in the army in San Francisco.
+Mind you, the... the population of San Francisco was only...
+Another example is photo tagging.
+So, if you get an e-mail
+that says your friend just tagged you in a photo,
+of course you're going to click on that e-mail and look at the photo.
+It's not something you can just decide to ignore.
+This is deep-seated, like,
+human personality that they're tapping into.
+What you should be asking yourself is:
+"Why doesn't that e-mail contain the photo in it?
+It would be a lot easier to see the photo."
+When Facebook found that feature, they just dialed the hell out of that
+because they said, "This is gonna be a great way to grow activity.
+Let's just get people tagging each other in photos all day long."
+
+He coented.
+Nice.
+Okay, Rebecca received it, and she is responding.
+All right, let Ben know that she's typing so we don't lose him.
+Activating ellipsis.
+
+Great, she posted.
+He's coenting on her coent about his coent on her post.
+Hold on, he stopped typing.
+Let's autofill.
+Emojis. He loves emojis.
+
+He went with fire.
+I was rootin' for eggplant.
+There's an entire discipline and field called "growth hacking."
+Teams of engineers whose job is to hack people's psychology
+so they can get more growth.
+They can get more user sign-ups, more engagement.
+They can get you to invite more people.
+After all the testing, all the iterating, all of this stuff,
+you know the single biggest thing we realized?
+Get any individual to seven friends in ten days.
+
+That was it.
+Chamath was the head of growth at Facebook early on,
+and he's very well known in the tech industry
+for pioneering a lot of the growth tactics
+that were used to grow Facebook at incredible speed.
+And those growth tactics have then become the standard playbook for Silicon Valley.
+They were used at Uber and at a bunch of other companies.
+One of the things that he pioneered was the use of scientific A/B testing
+of small feature changes.
+Companies like Google and Facebook
+would roll out lots of little, tiny experiments
+that they were constantly doing on users.
+And over time, by running these constant experiments,
+you... you develop the most optimal way
+to get users to do what you want them to do.
+It's... It's manipulation.
+ you're making me feel like a lab rat.
+You are a lab rat. We're all lab rats.
+And it's not like we're lab rats for developing a cure for cancer.
+It's not like they're trying to benefit us.
+Right? We're just zombies, and they want us to look at more ads
+so they can make more money.
+Facebook conducted
+what they called "massive-scale contagion experiments."
+Okay.
+How do we use subliminal cues on the Facebook pages
+to get more people to go vote in the midterm elections?
+And they discovered that they were able to do that.
+One thing they concluded is that we now know
+we can affect real-world behavior and emotions
+without ever triggering the user's awareness.
+They are completely clueless.
+We're pointing these engines of AI back at ourselves
+to reverse-engineer what elicits responses from us.
+Almost like you're stimulating nerve cells on a spider
+to see what causes its legs to respond.
+So, it really is this kind of prison experiment
+where we're just, you know, roping people into the matrix,
+and we're just harvesting all this money and...
+and data from all their activity to profit from.
+And we're not even aware that it's happening.
+So, we want to psychologically figure out how to manipulate you as fast as possible
+and then give you back that dopamine hit.
+We did that brilliantly at Facebook.
+Instagram has done it. WhatsApp has done it.
+You know, Snapchat has done it. Twitter has done it.
+I mean, it's exactly the kind of thing
+that a... that a hacker like myself would come up with
+because you're exploiting a vulnerability in... in human psychology.
+
+you know, the inventors, creators...
+ you know, and it's me, it's Mark, it's the...
+you know, Kevin Systrom at Instagram... It's all of these people...
+um, understood this consciously, and we did it anyway.
+No one got upset when bicycles showed up.
+Right? Like, if everyone's starting to go around on bicycles,
+no one said, " my God, we've just ruined society.
+Like, bicycles are affecting people.
+They're pulling people away from their kids.
+They're ruining the fabric of democracy. People can't tell what's true."
+Like, we never said any of that stuff about a bicycle.
+If something is a tool, it genuinely is just sitting there,
+waiting patiently.
+If something is not a tool, it's demanding things from you.
+It's seducing you. It's manipulating you. It wants things from you.
+And we've moved away from having a tools-based technology environment
+to an addiction- and manipulation-based technology environment.
+That's what's changed.
+Social media isn't a tool that's just waiting to be used.
+It has its own goals, and it has its own means of pursuing them
+by using your psychology against you.
+
+
+Rewind a few years ago, I was the...
+I was the president of Pinterest.
+I was coming home,
+and I couldn't get off my phone once I got home,
+despite having two young kids who needed my love and attention.
+I was in the pantry, you know, typing away on an e-mail
+or sometimes looking at Pinterest.
+I thought, "God, this is classic irony.
+I am going to work during the day
+and building something that then I am falling prey to."
+And I couldn't... I mean, some of those moments, I couldn't help myself.
+The one that I'm... I'm most prone to is Twitter.
+ used to be Reddit.
+I actually had to write myself software to break my addiction to reading Reddit.
+I'm probably most addicted to my e-mail.
+I mean, really. I mean, I... I feel it.
+Well, I mean, it's sortit's interesting
+that knowing what was going on behind the curtain,
+I still wasn't able to control my usage.
+So, that's a little scary.
+Even knowing how these tricks work, I'm still susceptible to them.
+I'll still pick up the phone, and 20 minutes will disappear.
+Do you check your smartphone before you pee in the morning
+or while you're peeing in the morning?
+'Cause those are the only two choices.
+I tried through willpower, just pure willpower...
+"I'll put down my phone, I'll leave my phone in the car when I get home."
+I think I told myself a thousand times, a thousand different days,
+"I am not gonna bring my phone  to the bedroom,"
+and then 9:00 p.m. rolls around.
+"Well, I wanna bring my phone in the bedroom."
+And so, that was sort of...
+Willpower was kind of attempt one,
+and then attempt two was, you know, brute force.
+Introducing the Kitchen Safe.
+The Kitchen Safe is a revolutionary,
+new, time-locking container that helps you fight temptation.
+All David has to do is place those temptations in the Kitchen Safe.
+Next, he rotates the dial to set the timer.
+And, finally, he presses the dial to activate the lock.
+The Kitchen Safe is great...
+We have that, don't we?
+...video games, credit cards, and cell phones.
+Yeah, we do.
+Once the Kitchen Safe is locked, it cannot be opened
+until the timer reaches zero.
+So, here's the thing. Social media is a drug.
+I mean, we have a basic biological imperative
+to connect with other people.
+That directly affects the release of dopamine in the reward pathway.
+Millions of years of evolution, um, are behind that system
+to get us to come together and live in counities,
+to find mates, to propagate our species.
+So, there's no doubt that a vehicle like social media,
+which optimizes this connection between people,
+is going to have the potential for addiction.
+-m! -Dad, stop!
+I have, like, 1,000 more snips to send before dinner.
+Snips?
+I don't know what a snip is.
+- that smells good, baby. -All right. Thank you.
+I was, um, thinking we could use all five senses
+to enjoy our dinner tonight.
+So, I decided that we're not gonna have any cell phones at the table tonight.
+So, turn 'em in.
+-Really? -Yep.
+-All right. -Thank you. Ben?
+-Okay. -Mom, the phone pirate.
+-Got it. -Mom!
+So, they will be safe in here until after dinner...
+-and everyone can just chill out. Okay?
+-Can I just see who it is? -No.
+Just gonna go get another fork.
+Thank you.
+Honey, you can't open that.
+I locked it for an hour, so just leave it alone.
+So, what should we talk about?
+Well, we could talk
+about the,  Extreme Center wackos I drove by today.
+-Please, Frank. -What?
+I don't wanna talk about politics.
+-What's wrong with the Extreme Center? -See? He doesn't even get it.
+It depends on who you ask.
+It's like asking, "What's wrong with propaganda?"
+Isla!
+ my God.
+-Do you want me to... -Yeah.
+I... I'm worried about my kids.
+And if you have kids, I'm worried about your kids.
+Armed with all the knowledge that I have and all of the experience,
+I am fighting my kids about the time
+that they spend on phones and on the computer.
+I will say to my son, "How many hours do you think you're spending on your phone?"
+He'll be like, "It's, like, half an hour. It's half an hour, tops."
+I'd say upwards hour, hour and a half.
+I looked at his screen report a couple weeks ago.
+-Three hours and 45 minutes. -That...
+I don't think that's... No. Per day, on average?
+-Yeah. -Should I go get it right now?
+There's not a day that goes by that I don't remind my kids
+about the pleasure-pain balance,
+about dopamine deficit states,
+about the risk of addiction.
+Moment of truth.
+Two hours, 50 minutes per day.
+-Let's see. -Actually, I've been using a lot today.
+-Last seven days. -That's probably why.
+Instagram, six hours, 13 minutes. Okay, so my Instagram's worse.
+My screen's completely shattered.
+Thanks, Cass.
+What do you mean, "Thanks, Cass"?
+You keep freaking Mom out about our phones when it's not really a problem.
+We don't need our phones to eat dinner!
+I get what you're saying. It's just not that big a deal. It's not.
+If it's not that big a deal, don't use it for a week.
+Yeah.
+Yeah, actually, if you can put that thing away for, like, a whole week...
+I will buy you a new screen.
+-Like, starting now? -Starting now.
+-Okay. You got a deal. -Okay.
+Okay, you gotta leave it here, though, buddy.
+All right, I'm plugging it in.
+Let the record show... I'm backing away.
+Okay.
+-You're on the clock. -One week.
+ my...
+Think he can do it?
+I don't know. We'll see.
+Just eat, okay?
+Good family dinner!
+These technology products were not designed
+by child psychologists who are trying to protect and nurture children.
+They were just designing to make these algorithms
+that were really good at recoending the next video to you
+or really good at getting you to take a photo with a filter on it.
+
+
+
+It's not just that it's controlling
+where they spend their attention.
+Especially social media starts to dig deeper and deeper down into the brain stem
+and take over kids' sense of self-worth and identity.
+
+
+
+
+
+
+We evolved to care about whether other people in our tribe...
+
+think well of us or not 'cause it matters.
+But were we evolved to be aware of what 10,000 people think of us?
+We were not evolved
+to have social approval being dosed to us every five minutes.
+That was not at all what we were built to experience.
+We curate our lives around this perceived sense of perfection
+because we get rewarded in these short-term signals
+hearts, likes, thumbs-up
+and we conflate that with value, and we conflate it with truth.
+And instead, what it really is is fake, brittle popularity...
+that's short-term and that leaves you even more, and admit it,
+vacant and empty before you did it.
+Because then it forces you into this vicious cycle
+where you're like, "What's the next thing I need to do now? 'Cause I need it back."
+Think about that compounded by two billion people,
+and then think about how people react then to the perceptions of others.
+It's just a... It's really bad.
+It's really, really bad.
+There has been a gigantic increase
+in depression and anxiety for American teenagers
+which began right around... between 2011 and 2013.
+The number of teenage girls out of 100,000 in this country
+who were admitted to a hospital every year
+because they cut themselves or otherwise harmed themselves,
+that number was pretty stable until around 2010, 2011,
+and then it begins going way up.
+It's up 62 percent for older teen girls.
+
+It's up 189 percent for the preteen girls. That's nearly triple.
+Even more horrifying, we see the same pattern with suicide.
+
+The older teen girls, 15 to 19 years old,
+they're up 70 percent, compared to the first decade of this century.
+The preteen girls, who have very low rates to begin with,
+they are up 151 percent.
+And that pattern points to social media.
+
+Gen Z, the kids born after 1996 or so,
+those kids are the first generation in history
+that got on social media in middle school.
+How do they spend their time?
+They come home from school, and they're on their devices.
+A whole generation is more anxious, more fragile, more depressed.
+They're much less comfortable taking risks.
+The rates at which they get driver's licenses have been dropping.
+The number who have ever gone out on a date
+or had any kind of romantic interaction is dropping rapidly.
+This is a real change in a generation.
+And remember, for every one of these, for every hospital admission,
+there's a family that is traumatized and horrified.
+"My God, what is happening to our kids?"
+It's plain as day to me.
+These services are killing people... and causing people to kill themselves.
+I don't know any parent who says, "Yeah, I really want my kids to be growing up
+feeling manipulated by tech designers,
+manipulating their attention, making it impossible to do their homework,
+making them compare themselves to unrealistic standards of beauty."
+Like, no one wants that.
+No one does.
+We... We used to have these protections.
+When children watched Saturday morning cartoons,
+we cared about protecting children.
+We would say, "You can't advertise to these age children in these ways."
+But then you take YouTube for Kids,
+and it gobbles up that entire portion of the attention economy,
+and now all kids are exposed to YouTube for Kids.
+And all those protections and all those regulations are gone.
+
+We're training and conditioning a whole new generation of people...
+that when we are uncomfortable or lonely or uncertain or afraid,
+we have a digital pacifier for ourselves
+that is kind of atrophying our own ability to deal with that.
+Photoshop didn't have 1,000 engineers
+on the other side of the screen, using notifications, using your friends,
+using AI to predict what's gonna perfectly addict you, or hook you,
+or manipulate you, or allow advertisers
+to test 60,000 variations of text or colors to figure out
+
+what's the perfect manipulation of your mind.
+This is a totally new species of power and influence.
+I... I would say, again, the methods used
+to play on people's ability to be addicted or to be influenced
+may be different this time, and they probably are different.
+They were different when newspapers came in and the printing press came in,
+and they were different when television came in,
+and you had three major networks and...
+-At the time. -At the time. That's what I'm saying.
+But I'm saying the idea that there's a new level
+and that new level has happened so many times before.
+I mean, this is just the latest new level that we've seen.
+There's this narrative that, you know, "We'll just adapt to it.
+We'll learn how to live with these devices,
+just like we've learned how to live with everything else."
+And what this misses is there's something distinctly new here.
+Perhaps the most dangerous piece of all this is the fact
+that it's driven by technology that's advancing exponentially.
+
+Roughly, if you say from, like, the 1960s to today,
+processing power has gone up about a trillion times.
+Nothing else that we have has improved at anything near that rate.
+Like, cars are, you know, roughly twice as fast.
+And almost everything else is negligible.
+And perhaps most importantly,
+our humanour physiology, our brains have evolved not at all.
+
+Human beings, at a mind and body and sort of physical level,
+are not gonna fundamentally change.
+We can do genetic engineering and develop new kinds of human beings,
+but realistically speaking, you're living inside of hardware, a brain,
+that was, like, millions of years old,
+and then there's this screen, and then on the opposite side of the screen,
+there's these thousands of engineers and supercomputers
+that have goals that are different than your goals,
+and so, who's gonna win in that game? Who's gonna win?
+How are we losing?
+-I don't know. -Where is he? This is not normal.
+Did I overwhelm him with friends and family content?
+-Probably. -Well, maybe it was all the ads.
+No. Something's very wrong. Let's switch to resurrection mode.
+When you think of AI, you know, an AI's gonna ruin the world,
+and you see, like, a Terminator, and you see Arnold Schwarzenegger.
+I'll be back.
+You see drones, and you think, like,
+" we're gonna kill people with AI."
+And what people miss is that AI already runs today's world right now.
+Even talking about "an AI" is just a metaphor.
+At these companies like... like Google, there's just massive, massive rooms,
+some of them underground, some of them underwater,
+of just computers.
+Tons and tons of computers, as far as the eye can see.
+They're deeply interconnected with each other
+and running extremely complicated programs,
+sending information back and forth between each other all the time.
+And they'll be running many different programs,
+many different products on those same machines.
+Some of those things could be described as simple algorithms,
+some could be described as algorithms
+that are so complicated, you would call them intelligence.
+I like to say that algorithms are opinions embedded in code...
+and that algorithms are not objective.
+Algorithms are optimized to some definition of success.
+So, if you can imagine,
+if a... if a coercial enterprise builds an algorithm
+to their definition of success,
+it's a coercial interest.
+It's usually profit.
+You are giving the computer the goal state, "I want this outcome,"
+and then the computer itself is learning how to do it.
+That's where the term "machine learning" comes from.
+And so, every day, it gets slightly better
+at picking the right posts in the right order
+so that you spend longer and longer in that product.
+And no one really understands what they're doing
+in order to achieve that goal.
+The algorithm has a mind of its own, so even though a person writes it,
+it's written in a way
+that you kind of build the machine, and then the machine changes itself.
+There's only a handful of people at these companies,
+at Facebook and Twitter and other companies...
+There's only a few people who understand how those systems work,
+and even they don't necessarily fully understand
+what's gonna happen with a particular piece of content.
+So, as humans, we've almost lost control over these systems.
+Because they're controlling, you know, the information that we see,
+they're controlling us more than we're controlling them.
+Cross-referencing him
+against comparables in his geographic zone.
+His psychometric doppelgangers.
+There are 13,694 people behaving just like him in his region.
+-What's trending with them? -We need something actually good
+for a proper resurrection,
+given that the typical stuff isn't working.
+Not even that cute girl from school.
+My analysis shows that going political with Extreme Center content
+has a 62.3 percent chance of long-term engagement.
+That's not bad.
+It's not good enough to lead with.
+Okay, okay, so we've tried notifying him about tagged photos,
+invitations, current events, even a direct message from Rebecca.
+But what about User 01265923010?
+Yeah, Ben loved all of her posts.
+For months and, like, literally all of them, and then nothing.
+I calculate a 92.3 percent chance of resurrection
+with a notification about Ana.
+
+And her new friend.
+
+
+ you gotta be kiddin' me.
+Okay.
+
+-What?
+Bam! We're back!
+Let's get back to making money, boys.
+Yes, and connecting Ben with the entire world.
+I'm giving him access to all the information he might like.
+Hey, do you guys ever wonder if, you know, like, the feed is good for Ben?
+-No. -No.
+♪ I put a spell on you ♪
+♪ 'Cause you're mine ♪
+♪ You better stop the things you do ♪
+♪ I ain't lyin' ♪
+
+♪ No, I ain't lyin' ♪
+♪ You know I can't stand it ♪
+♪ You're runnin' around ♪
+♪ You know better, Daddy ♪
+♪ I can't stand it 'Cause you put me down ♪
+♪ Yeah, yeah ♪
+♪ I put a spell on you ♪
+♪ Because you're mine ♪
+♪ You're mine ♪
+So, imagine you're on Facebook...
+and you're effectively playing against this artificial intelligence
+that knows everything about you,
+can anticipate your next move, and you know literally nothing about it,
+except that there are cat videos and birthdays on it.
+That's not a fair fight.
+Ben and Jerry, it's time to go, bud!
+Ben?
+-Ben. -
+Come on.
+School time. Let's go.
+
+-How you doing today? - I'm... I'm nervous.
+-Are ya? -Yeah.
+We were all looking for the moment
+when technology would overwhelm human strengths and intelligence.
+When is it gonna cross the singularity, replace our jobs, be smarter than humans?
+But there's this much earlier moment...
+when technology exceeds and overwhelms human weaknesses.
+This point being crossed is at the root of addiction,
+polarization, radicalization, outrage-ification,
+vanity-ification, the entire thing.
+This is overpowering human nature,
+and this is checkmate on humanity.
+I'm sorry.
+One of the ways I try to get people to understand
+just how wrong feeds from places like Facebook are
+is to think about the Wikipedia.
+
+When you go to a page, you're seeing the same thing as other people.
+
+So, it's one of the few things online that we at least hold in coon.
+Now, just imagine for a second that Wikipedia said,
+"We're gonna give each person a different customized definition,
+and we're gonna be paid by people for that."
+So, Wikipedia would be spying on you. Wikipedia would calculate,
+"What's the thing I can do to get this person to change a little bit
+on behalf of some coercial interest?" Right?
+And then it would change the entry.
+Can you imagine that?
+Well, you should be able to,
+'cause that's exactly what's happening on Facebook.
+It's exactly what's happening in your YouTube feed.
+When you go to Google and type in "Climate change is,"
+you're going to see different results depending on where you live.
+
+In certain cities, you're gonna see it autocomplete
+with "climate change is a hoax."
+In other cases, you're gonna see
+"climate change is causing the destruction of nature."
+And that's a function not of what the truth is about climate change,
+but about where you happen to be Googling from
+and the particular things Google knows about your interests.
+Even two friends who are so close to each other,
+who have almost the exact same set of friends,
+they think, you know, "I'm going to news feeds on Facebook.
+I'll see the exact same set of updates."
+But it's not like that at all.
+They see completely different worlds
+because they're based on these computers calculating
+what's perfect for each of them.
+
+The way to think about it is it's 2.7 billion Truman Shows.
+Each person has their own reality, with their own...
+facts.
+Why do you think that,  Truman has never come close
+to discovering the true nature of his world until now?
+We accept the reality of the world with which we're presented.
+It's as simple as that.
+
+Over time, you have the false sense that everyone agrees with you,
+because everyone in your news feed sounds just like you.
+And that once you're in that state, it turns out you're easily manipulated,
+the same way you would be manipulated by a magician.
+A magician shows you a card trick and says, "Pick a card, any card."
+What you don't realize was that they've done a set-up,
+so you pick the card they want you to pick.
+And that's how Facebook works. Facebook sits there and says,
+"Hey, you pick your friends. You pick the links that you follow."
+But that's all nonsense. It's just like the magician.
+Facebook is in charge of your news feed.
+We all simply are operating on a different set of facts.
+When that happens at scale,
+you're no longer able to reckon with or even consume information
+that contradicts with that world view that you've created.
+That means we aren't actually being objective,
+constructive individuals.
+Open up your eyes, don't believe the lies! Open up...
+And then you look over at the other side,
+and you start to think, "How can those people be so stupid?
+Look at all of this information that I'm constantly seeing.
+How are they not seeing that same information?"
+And the answer is, "They're not seeing that same information."
+Open up your eyes, don't believe the lies!
+What are Republicans like?
+People that don't have a clue.
+The Democrat Party is a crime syndicate, not a real political party.
+A huge new Pew Research Center study of 10,000 American adults
+finds us more divided than ever,
+with personal and political polarization at a 20-year high.
+You have more than a third of Republicans saying
+the Democratic Party is a threat to the nation,
+more than a quarter of Democrats saying the same thing about the Republicans.
+So many of the problems that we're discussing,
+like, around political polarization
+exist in spades on cable television.
+The media has this exact same problem,
+where their business model, by and large,
+is that they're selling our attention to advertisers.
+And the Internet is just a new, even more efficient way to do that.
+At YouTube, I was working on YouTube recoendations.
+It worries me that an algorithm that I worked on
+is actually increasing polarization in society.
+But from the point of view of watch time,
+this polarization is extremely efficient at keeping people online.
+The only reason these teachers are teaching this stuff
+is 'cause they're getting paid to.
+-It's absolutely absurd. -Hey, Benji.
+No soccer practice today?
+ there is. I'm just catching up on some news stuff.
+Do research. Anything that sways from the Extreme Center
+Wouldn't exactly call the stuff that you're watching news.
+You're always talking about how messed up everything is. So are they.
+But that stuff is just propaganda.
+Neither is true. It's all about what makes sense.
+Ben, I'm serious. That stuff is bad for you.
+-You should go to soccer practice. -
+I share this stuff because I care.
+I care that you are being misled, and it's not okay. All right?
+People think the algorithm is designed
+to give them what they really want, only it's not.
+The algorithm is actually trying to find a few rabbit holes that are very powerful,
+trying to find which rabbit hole is the closest to your interest.
+And then if you start watching one of those videos,
+then it will recoend it over and over again.
+It's not like anybody wants this to happen.
+It's just that this is what the recoendation system is doing.
+So much so that Kyrie Irving, the famous basketball player,
+ said he believed the Earth was flat, and he apologized later
+because he blamed it on a YouTube rabbit hole.
+You know, like, you click the YouTube click
+and it goes, like, how deep the rabbit hole goes.
+When he later came on to NPR to say,
+"I'm sorry for believing this.  I didn't want to mislead people,"
+a bunch of students in a classroom were interviewed saying,
+"The round-Earthers got to him."
+The flat-Earth conspiracy theory was recoended
+hundreds of millions of times by the algorithm.
+It's easy to think that it's just a few stupid people who get convinced,
+but the algorithm is getting smarter and smarter every day.
+So, today, they are convincing the people that the Earth is flat,
+but tomorrow, they will be convincing you of something that's false.
+On November 7th, the hashtag "Pizzagate" was born.
+Pizzagate...
+ boy.
+I still am not 100 percent sure how this originally came about,
+but the idea that ordering a pizza meant ordering a trafficked person.
+As the groups got bigger on Facebook,
+Facebook's recoendation engine started suggesting to regular users
+that they join Pizzagate groups.
+So, if a user was, for example, anti-vaccine or believed in chemtrails
+or had indicated to Facebook's algorithms in some way
+that they were prone to belief in conspiracy theories,
+Facebook's recoendation engine would serve them Pizzagate groups.
+Eventually, this culminated in a man showing up with a gun,
+deciding that he was gonna go liberate the children from the basement
+of the pizza place that did not have a basement.
+What were you doing?
+Making sure there was nothing there.
+-Regarding? -Pedophile ring.
+-What? -Pedophile ring.
+He's talking about Pizzagate.
+This is an example of a conspiracy theory
+that was propagated across all social networks.
+The social network's own recoendation engine
+is voluntarily serving this up to people
+who had never searched for the term "Pizzagate" in their life.
+
+There's a study, an MIT study,
+that fake news on Twitter spreads six times faster than true news.
+What is that world gonna look like
+when one has a six-times advantage to the other one?
+You can imagine these things are sort of like...
+they... they tilt the floor of... of human behavior.
+They make some behavior harder and some easier.
+And you're always free to walk up the hill,
+but fewer people do,
+and so, at scale, at society's scale, you really are just tilting the floor
+and changing what billions of people think and do.
+We've created a system that biases towards false information.
+Not because we want to,
+but because false information makes the companies more money
+than the truth. The truth is boring.
+It's a disinformation-for-profit business model.
+You make money the more you allow unregulated messages
+to reach anyone for the best price.
+Because climate change? Yeah.
+It's a hoax. Yeah, it's real. That's the point.
+The more they talk about it and the more they divide us,
+the more they have the power, the more...
+Facebook has trillions of these news feed posts.
+They can't know what's real or what's true...
+which is why this conversation is so critical right now.
+It's not just COVID-19 that's spreading fast.
+There's a flow of misinformation online about the virus.
+The notion drinking water
+will flush coronavirus from your system
+is one of several myths about the virus circulating on social media.
+The government planned this event, created the virus,
+and had a simulation of how the countries would react.
+Coronavirus is a... a hoax.
+SARS, coronavirus.
+And look at when it was made. 2018.
+I think the US government started this shit.
+Nobody is sick. Nobody is sick.
+Nobody knows anybody who's sick.
+Maybe the government is using the coronavirus as an excuse
+to get everyone to stay inside because something else is happening.
+Coronavirus is not killing people,
+it's the 5G radiation that they're pumping out.
+‎（5G信号塔被割倒焚烧）
+We're being bombarded with rumors.
+People are blowing up actual physical cell phone towers.
+We see Russia and China spreading rumors and conspiracy theories.
+This morning, panic and protest in Ukraine as...
+People have no idea what's true, and now it's a matter of life and death.
+Those sources that are spreading coronavirus misinformation
+have amassed something like 52 million engagements.
+You're saying that silver solution would be effective.
+Well, let's say it hasn't been tested on this strain of the coronavirus, but...
+What we're seeing with COVID is just an extreme version
+of what's happening across our information ecosystem.
+
+Social media amplifies exponential gossip and exponential hearsay
+to the point that we don't know what's true,
+no matter what issue we care about.
+-Are you still on the team? h
+Okay, well, I'm gonna get a snack before practice
+if you... wanna come.
+You know, never mind.
+Nine out of ten people are dissatisfied right now.
+The EC is like any political movement in history, when you think about it.
+We are standing up, and we are... we are standing up to this noise.
+You are my people. I trust you guys.
+-The Extreme Center content is brilliant. -He absolutely loves it.
+Running an auction.
+840 bidders. He sold for 4.35 cents to a weapons manufacturer.
+Let's promote some of these events.
+Upcoming rallies in his geographic zone later this week.
+I've got a new vlogger lined up, too.
+And... and, honestly, I'm telling you, I'm willing to do whatever it takes.
+And I mean whatever.
+-Subscribe... -Ben?
+...and also come back because I'm telling you, yo...
+...I got some real big things comin'.
+Some real big things.
+One of the problems with Facebook is that, as a tool of persuasion,
+it may be the greatest thing ever created.
+Now, imagine what that means in the hands of a dictator or an authoritarian.
+If you want to control the population of your country,
+there has never been a tool as effective as Facebook.
+Some of the most troubling implications
+of governments and other bad actors weaponizing social media,
+um, is that it has led to real, offline harm.
+I think the most prominent example
+that's gotten a lot of press is what's happened in Myanmar.
+
+In Myanmar, when people think of the Internet,
+what they are thinking about is Facebook.
+And what often happens is when people buy their cell phone,
+the cell phone shop owner will actually preload Facebook on there for them
+and open an account for them.
+And so when people get their phone, the first thing they open
+and the only thing they know how to open is Facebook.
+Well, a new bombshell investigation exposes Facebook's growing struggle
+to tackle hate speech in Myanmar.
+
+Facebook really gave the military and other bad actors
+a new way to manipulate public opinion
+and to help incite violence against the Ringya Muslims
+that included mass killings,
+burning of entire villages,
+mass rape, and other serious crimes against humanity
+that have now led
+to 700,000 Ringya Muslims having to flee the country.
+It's not that highly motivated propagandists
+haven't existed before.
+It's that the platforms make it possible
+to spread manipulative narratives with phenomenal ease,
+and without very much money.
+If I want to manipulate an election,
+I can now go into a conspiracy theory group on Facebook,
+and I can find 100 people
+who believe that the Earth is completely flat
+and think it's all this conspiracy theory that we landed on the moon,
+and I can tell Facebook, "Give me 1,000 users who look like that."
+Facebook will happily send me thousands of users that look like them
+that I can now hit with more conspiracy theories.
+Sold for 3.4 cents an impression.
+-New EC video to promote.
+Another ad teed up.
+Algorithms and manipulative politicians
+are becoming so expert at learning how to trigger us,
+getting so good at creating fake news that we absorb as if it were reality,
+and confusing us into believing those lies.
+It's as though we have less and less control
+over who we are and what we believe.
+...so they can pick sides.
+There's lies here, and there's lies over there.
+So they can keep the power,
+so they can control everything.
+They can control our minds,
+-so that they can keep their secrets. -
+
+
+Imagine a world where no one believes anything true.
+
+Everyone believes the government's lying to them.
+Everything is a conspiracy theory.
+"I shouldn't trust anyone. I hate the other side."
+That's where all this is heading.
+The political earthquakes in Europe continue to rumble.
+This time, in Italy and Spain.
+Overall, Europe's traditional, centrist coalition lost its majority
+while far right and far left populist parties made gains.
+
+Back up.
+Okay, let's go.
+These accounts were deliberately, specifically attempting
+-to sow political discord in Hong Kong. -
+-All right, Ben. -
+What does it look like to be a country
+that's entire diet is Facebook and social media?
+Democracy crumbled quickly.
+Six months.
+After that chaos in Chicago,
+violent clashes between protesters and supporters...
+Democracy is facing a crisis of confidence.
+What we're seeing is a global assault on democracy.
+
+Most of the countries that are targeted are countries
+that run democratic elections.
+This is happening at scale.
+By state actors, by people with millions of dollars saying,
+"I wanna destabilize Kenya. I wanna destabilize Cameroon.
+ Angola? That only costs this much."
+An extraordinary election took place Sunday in Brazil.
+With a campaign that's been powered by social media.
+We in the tech industry have created the tools
+to destabilize and erode the fabric of society
+in every country, all at once, everywhere.
+You have this in Germany, Spain, France, Brazil, Australia.
+Some of the most "developed nations" in the world
+are now imploding on each other,
+and what do they have in coon?
+Knowing what you know now,
+do you believe Facebook impacted the results of the 2016 election?
+ that's... that is hard.
+You know, it's... the...
+the reality is, well, there were so many different forces at play.
+Representatives from Facebook, Twitter, and Google are back on Capitol Hill
+for a second day of testimony
+about Russia's interference in the 2016 election.
+The manipulation by third parties is not a hack.
+Right? The Russians didn't hack Facebook.
+What they did was they used the tools that Facebook created
+for legitimate advertisers and legitimate users,
+and they applied it to a nefarious purpose.
+It's like remote-control warfare.
+One country can manipulate another one
+without actually invading its physical borders.
+We're seeing violent images. It appears to be a dumpster
+being pushed around...
+But it wasn't about who you wanted to vote for.
+It was about sowing total chaos and division in society.
+Now, this was in Huntington Beach. A march...
+It's about making two sides
+who couldn't hear each other anymore,
+who didn't want to hear each other anymore,
+who didn't trust each other anymore.
+This is a city where hatred was laid bare
+and transformed into racial violence.
+
+Ben!
+Cassandra!
+-Cass! -Ben!
+Come here! Come here!
+Arms up. Arms up. Get down on your knees. Now, down.
+-Calm-Ben!
+Hey! Hands up!
+Turn around. On the ground. On the ground!
+Do we want this system for sale to the highest bidder?
+For democracy to be completely for sale, where you can reach any mind you want,
+target a lie to that specific population, and create culture wars?
+Do we want that?
+We are a nation of people...
+that no longer speak to each other.
+We are a nation of people who have stopped being friends with people
+because of who they voted for in the last election.
+We are a nation of people who have isolated ourselves
+to only watch channels that tell us that we're right.
+My message here today is that tribalism is ruining us.
+It is tearing our country apart.
+It is no way for sane adults to act.
+If everyone's entitled to their own facts,
+there's really no need for compromise, no need for people to come together.
+In fact, there's really no need for people to interact.
+We need to have...
+some shared understanding of reality.
+Otherwise, we aren't a country.
+
+So,  long-term, the solution here is to build more AI tools
+that find patterns of people using the services that no real person would do.
+We are allowing the technologists to frame this as a problem
+that they're equipped to solve.
+That is... That's a lie.
+People talk about AI as if it will know truth.
+AI's not gonna solve these problems.
+AI cannot solve the problem of fake news.
+Google doesn't have the option of saying,
+" is this conspiracy? Is this truth?"
+Because they don't know what truth is.
+They don't have a proxy for truth that's better than a click.
+If we don't agree on what is true
+or that there is such a thing as truth,
+we're toast.
+This is the problem beneath other problems
+because if we can't agree on what's true,
+then we can't navigate out of any of our problems.
+We should suggest Flat Earth Football Club.
+Don't show him sports updates. He doesn't engage.
+A lot of people in Silicon Valley subscribe to some kind of theory
+that we're building some global super brain,
+and all of our users are just interchangeable little neurons,
+no one of which is important.
+And it subjugates people into this weird role
+where you're just, like, this little computing element
+that we're prograing through our behavior manipulation
+for the service of this giant brain, and you don't matter.
+You're not gonna get paid. You're not gonna get acknowledged.
+You don't have self-determination.
+We'll sneakily just manipulate you because you're a computing node,
+so we need to program you 'cause that's what you do with computing nodes.
+ man.
+When you think about technology and it being an existential threat,
+you know, that's a big claim, and...
+it's easy to then, in your mind, think, "Okay, so, there I am with the phone...
+scrolling, clicking, using it.
+Like, where's the existential threat?
+Okay, there's the supercomputer.
+The other side of the screen, pointed at my brain,
+got me to watch one more video. Where's the existential threat?"
+It's not about the technology being the existential threat.
+
+It's the technology's ability
+to bring out the worst in society...
+...and the worst in society being the existential threat.
+
+If technology creates... mass chaos,
+outrage, incivility,
+lack of trust in each other,
+loneliness, alienation, more polarization,
+more election hacking, more populism,
+more distraction and inability to focus on the real issues...
+that's just society.
+And now society is incapable of healing itself
+and just devolving into a kind of chaos.
+This affects everyone, even if you don't use these products.
+These things have become digital Frankensteins
+that are terraforming the world in their image,
+whether it's the mental health of children
+or our politics and our political discourse,
+without taking responsibility for taking over the public square.
+-So, again, it comes back to-And who do you think's responsible?
+I think we have to have the platforms be responsible
+for when they take over election advertising,
+they're responsible for protecting elections.
+When they take over mental health of kids or Saturday morning,
+they're responsible for protecting Saturday morning.
+The race to keep people's attention isn't going away.
+Our technology's gonna become more integrated into our lives, not less.
+The AIs are gonna get better at predicting what keeps us on the screen,
+not worse at predicting what keeps us on the screen.
+I... I am 62 years old,
+getting older every minute, the more this conversation goes on...
+...but... but I will tell you that,
+I'm probably gonna be dead and gone, and I'll probably be thankful for it,
+when all this shit comes to fruition.
+Because... Because I think that this scares me to death.
+Do... Do you... Do you see it the same way?
+Or am I overreacting to a situation that I don't know enough about?
+What are you most worried about?
+I think, in the... in the shortest time horizon...
+civil war.
+If we go down the current status quo for, let's say, another 20 years...
+we probably destroy our civilization through willful ignorance.
+We probably fail to meet the challenge of climate change.
+We probably degrade the world's democracies
+so that they fall into some sort of bizarre autocratic dysfunction.
+We probably ruin the global economy.
+ we probably, um, don't survive.
+You know, I... I really do view it as existential.
+Is this the last generation of people
+that are gonna know what it was like before this illusion took place?
+Like, how do you wake up from the matrix when you don't know you're in the matrix?
+
+
+A lot of what we're saying sounds like it's just this...
+one-sided doom and gloom.
+Like, " my God, technology's just ruining the world
+and it's ruining kids,"
+and it's like... "No."
+It's confusing because it's simultaneous utopia...and dystopia.
+ Like, I could hit a button on my phone, and a car shows up in 30 seconds,
+and I can go exactly where I need to go.
+That is magic. That's amazing.
+When we were making the like button,
+our entire motivation was, "Can we spread positivity and love in the world?"
+The idea that, fast-forward to today, and teens would be getting depressed
+when they don't have enough likes,
+or it could be leading to political polarization
+was nowhere on our radar.
+I don't think these guys set out to be evil.
+It's just the business model that has a problem.
+You could shut down the service and destroy whatever it is
+$20 billion of shareholder valueand get sued and...
+But you can't, in practice, put the genie back in the bottle.
+You can make some tweaks, but at the end of the day,
+you've gotta grow revenue and usage, quarter over quarter. It's...
+The bigger it gets, the harder it is for anyone to change.
+What I see is a bunch of people who are trapped by a business model,
+an economic incentive, and shareholder pressure
+that makes it almost impossible to do something else.
+I think we need to accept that it's okay
+for companies to be focused on making money.
+What's not okay is when there's no regulation, no rules,
+and no competition,
+and the companies are acting as sort of de facto governments.
+And then they're saying, "Well, we can regulate ourselves."
+I mean, that's just a lie. That's just ridiculous.
+Financial incentives kind of run the world,
+so any solution to this problem
+has to realign the financial incentives.
+There's no fiscal reason for these companies to change.
+And that is why I think we need regulation.
+The phone company has tons of sensitive data about you,
+and we have a lot of laws that make sure they don't do the wrong things.
+We have almost no laws around digital privacy, for example.
+We could tax data collection and processing
+the same way that you, for example, pay your water bill
+by monitoring the amount of water that you use.
+You tax these companies on the data assets that they have.
+It gives them a fiscal reason
+to not acquire every piece of data on the planet.
+The law runs way behind on these things,
+but what I know is the current situation exists not for the protection of users,
+but for the protection of the rights and privileges
+of these gigantic, incredibly wealthy companies.
+Are we always gonna defer to the richest, most powerful people?
+Or are we ever gonna say,
+"You know, there are times when there is a national interest.
+There are times when the interests of people, of users,
+is actually more important
+than the profits of somebody who's already a billionaire"?
+These markets undermine democracy, and they undermine freedom,
+and they should be outlawed.
+This is not a radical proposal.
+There are other markets that we outlaw.
+We outlaw markets in human organs.
+We outlaw markets in human slaves.
+Because they have inevitable destructive consequences.
+We live in a world
+in which a tree is worth more, financially, dead than alive,
+in a world in which a whale is worth more dead than alive.
+For so long as our economy works in that way
+and corporations go unregulated,
+they're going to continue to destroy trees,
+to kill whales,
+to mine the earth, and to continue to pull oil out of the ground,
+even though we know it is destroying the planet
+and we know that it's going to leave a worse world for future generations.
+This is short-term thinking
+based on this religion of profit at all costs,
+as if somehow, magically, each corporation acting in its selfish interest
+is going to produce the best result.
+This has been affecting the environment for a long time.
+What's frightening, and what hopefully is the last straw
+that will make us wake up as a civilization
+to how flawed this theory has been in the first place
+is to see that now we're the tree, we're the whale.
+Our attention can be mined.
+We are more profitable to a corporation
+if we're spending time staring at a screen,
+staring at an ad,
+than if we're spending that time living our life in a rich way.
+And so, we're seeing the results of that.
+We're seeing corporations using powerful artificial intelligence
+to outsmart us and figure out how to pull our attention
+toward the things they want us to look at,
+rather than the things that are most consistent
+with our goals and our values and our lives.
+
+What a computer is,
+is it's the most remarkable tool that we've ever come up with.
+And it's the equivalent of a bicycle for our minds.
+The idea of humane technology, that's where Silicon Valley got its start.
+And we've lost sight of it because it became the cool thing to do,
+as opposed to the right thing to do.
+The Internet was, like, a weird, wacky place.
+It was experimental.
+Creative things happened on the Internet, and certainly, they do still,
+but, like, it just feels like this, like, giant mall.
+You know, it's just like, "God, there's gotta be...
+there's gotta be more to it than that."
+I guess I'm just an optimist.
+'Cause I think we can change what social media looks like and means.
+The way the technology works is not a law of physics.
+It is not set in stone.
+These are choices that human beings like myself have been making.
+And human beings can change those technologies.
+And the question now is whether or not we're willing to admit
+that those bad outcomes are coming directly as a product of our work.
+It's that we built these things, and we have a responsibility to change it.
+The attention extraction model
+is not how we want to treat human beings.
+Is it just me or...
+Poor sucker.
+The fabric of a healthy society
+depends on us getting off this corrosive business model.
+We can demand that these products be designed humanely.
+We can demand to not be treated as an extractable resource.
+The intention could be: "How do we make the world better?"
+Throughout history,
+every single time something's gotten better,
+it's because somebody has come along to say,
+"This is stupid. We can do better."
+Like, it's the critics that drive improvement.
+It's the critics who are the true optimists.
+Hello.
+I mean, it seems kind of crazy, right?
+It's like the fundamental way that this stuff is designed...
+isn't going in a good direction.
+Like, the entire thing.
+So, it sounds crazy to say we need to change all that,
+but that's what we need to do.
+Think we're gonna get there?
+We have to.
+Um, it seems like you're very optimistic.
+-Is that how I sound? -
+Yeah, I mean...
+I can't believe you keep saying that, because I'm like, "Really?
+I feel like we're headed toward dystopia.
+I feel like we're on the fast track to dystopia,
+and it's gonna take a miracle to get us out of it."
+And that miracle is, of course, collective will.
+I am optimistic that we're going to figure it out,
+but I think it's gonna take a long time.
+Because not everybody recognizes that this is a problem.
+I think one of the big failures in technology today
+is a real failure of leadership,
+of, like, people coming out and having these open conversations
+about things that... not just what went well, but what isn't perfect
+so that someone can come in and build something new.
+At the end of the day, you know,
+this machine isn't gonna turn around until there's massive public pressure.
+By having these conversations and... and voicing your opinion,
+in some cases through these very technologies,
+we can start to change the tide. We can start to change the conversation.
+It might sound strange, but it's my world. It's my counity.
+I don't hate them. I don't wanna do any harm to Google or Facebook.
+I just want to reform them so they don't destroy the world. You know?
+I've uninstalled a ton of apps from my phone
+that I felt were just wasting my time.
+All the social media apps, all the news apps,
+and I've turned off notifications
+on anything that was vibrating my leg with information
+that wasn't timely and important to me right now.
+It's for the same reason I don't keep cookies in my pocket.
+Reduce the number of notifications you get.
+Turn off notifications.
+Turning off all notifications.
+I'm not using Google anymore, I'm using Qwant,
+which doesn't store your search history.
+Never accept a video recoended to you on YouTube.
+Always choose. That's another way to fight.
+There are tons of Chrome extensions that remove recoendations.
+You're recoending something to undo what you made.
+Yep.
+Before you share, fact-check, consider the source, do that extra Google.
+If it seems like it's something designed to really push your emotional buttons,
+like, it probably is.
+Essentially, you vote with your clicks.
+If you click on clickbait,
+you're creating a financial incentive that perpetuates this existing system.
+Make sure that you get lots of different kinds of information
+in your own life.
+I follow people on Twitter that I disagree with
+because I want to be exposed to different points of view.
+Notice that many people in the tech industry
+don't give these devices to their own children.
+My kids don't use social media at all.
+Is that a rule, or is that a...
+That's a rule.
+We are zealots about it.
+We're... We're crazy.
+And we don't let our kids have really any screen time.
+I've worked out what I think are three simple rules, um,
+that make life a lot easier for families and that are justified by the research.
+So, the first rule is all devices out of the bedroom
+at a fixed time every night.
+Whatever the time is, half an hour before bedtime, all devices out.
+The second rule is no social media until high school.
+Personally, I think the age should be 16.
+Middle school's hard eno Keep it out until high school.
+And the third rule is work out a time budget with your kid.
+And if you talk with them and say,
+"Well, how many hours a day do you wanna spend on your device?
+What do you think is a good amount?"
+they'll often say something pretty reasonable.
+Well, look, I know perfectly well
+that I'm not gonna get everybody to delete their social media accounts,
+but I think I can get a few.
+And just getting a few people to delete their accounts matters a lot,
+and the reason why is that that creates the space for a conversation
+because I want there to be enough people out in the society
+who are free of the manipulation engines to have a societal conversation
+that isn't bounded by the manipulation engines.
+So, do it! Get out of the system.
+Yeah, delete. Get off the stupid stuff.
+The world's beautiful. Look. Look, it's great out there.
+
+
+‎（我们来聊聊怎样解决这个问题 ‎登录TheSocialDilea.com）
+
