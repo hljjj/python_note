@@ -1,10 +1,10 @@
 import inspect
 
 
-def print_var(var):
+def print_var(var, context=""):
     """打印变量名及变量值"""
     name = retrieve_name(var)
-    print(f"{name} is {var}")
+    print(f"\n{context}{name} is {var}")
 
 
 def retrieve_name(var):

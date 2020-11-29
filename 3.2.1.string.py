@@ -47,13 +47,12 @@ words.title()
 words.replace("world","python")
 
 # strip 清除首尾空格
-'  string    '.strip()
+trip_string = '  string    '
+print(trip_string.strip())
 
 # lstrip 清除左边空格 left strip
 # rstrip同理，right strip
- '  string    '.lstrip()
-
-
+print(trip_string.lstrip())
 
 # 对字符串进行拆分
 split_1 = new_words_3.split(',')
