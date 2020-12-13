@@ -2,7 +2,7 @@
 # extract the English words from ass file
 
 # read the file
-path = "file"
+path = "files"
 filename = "The.Social.Dilemma.ass"
 
 with open(f"{path}/{filename}", "r", encoding="utf-8") as f:
