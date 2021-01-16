@@ -4,7 +4,7 @@ import inspect
 def print_var(var, context=""):
     """打印变量名及变量值"""
     name = retrieve_name(var)
-    print(f"\n{context}{name} is {var}")
+    print(f"{context}{name} is {var}\n")
 
 
 def retrieve_name(var):
