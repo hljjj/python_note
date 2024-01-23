@@ -1,0 +1,23 @@
+
+# 用原始方法打印1-10的平方式子和结果
+
+square1 = pow(1,2)
+print(f"1*1={square1}")
+square2 = pow(2,2)
+print(f"2*2={square2}")
+square3 = pow(3,2)
+print(f"3*3={square3}")
+square4 = pow(4,2)
+print(f"4*4={square4}")
+square5 = pow(5,2)
+print(f"5*5={square5}")
+square6 = pow(6,2)
+print(f"6*6={square6}")
+square7 = pow(7,2)
+print(f"7*7={square7}")
+square8 = pow(8,2)
+print(f"8*8={square8}")
+square9 = pow(9,2)
+print(f"9*9={square9}")
+square10 = pow(10,2)
+print(f"10*10={square10}")
